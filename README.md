@@ -9,7 +9,7 @@
 
 ## Features
 
-- Quick and efficent with minimal and simple UI
+- Quick and efficient with minimal and simple UI
 
 - Allows users to alter parameters like Window Length, Sampling Rate, Update Interval, Downsample and Y-Range
 
